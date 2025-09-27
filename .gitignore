@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+
+# Ignore database python file
+database.py
